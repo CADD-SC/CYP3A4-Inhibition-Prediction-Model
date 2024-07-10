@@ -33,9 +33,9 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 
 **Output:**
 
-Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable.
+Our model generates output in binary value (1 or 0), where 1 indicates compound to be inhibitor, while 0 indicates non-inhibitor
 
  
-**Please make sure to keep all the required files (CYP3A4.pkl, data_preprocessing.py, scaler, featuers.txt, input_file.csv, model.py)in the working directory.**
+**Please make sure to keep all the required files (CYP3A4.pkl, data_preprocessing.py, scaler, featuers.txt, input_file.csv, model.py)in the working directory**
 
-**To download the prediction model file (CYP3A4.pkl), please refer to the "Tags --> v2.3.4" tab.**
+**To download the prediction model file (CYP3A4.pkl), please refer to the "Tags --> v2.3.4" tab**
